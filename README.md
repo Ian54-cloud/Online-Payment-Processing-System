@@ -48,4 +48,4 @@ UnmatchedBlikCodeException
 
 InvalidPinException
 
-Optional Blik code expiration timer (60s)
+
